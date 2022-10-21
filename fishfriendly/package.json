@@ -1,0 +1,15 @@
+{
+  "name": "fishfriendly",
+  "version": "1.0.0",
+  "description": "A desktopb app that gamifies replacing everyday objects with ocean-friendly alternatives. Built for DeepDiveHacks!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shresht Bhowmick and Nalin Mathur",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
